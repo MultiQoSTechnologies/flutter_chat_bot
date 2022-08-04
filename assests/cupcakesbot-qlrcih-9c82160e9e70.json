@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pizzabot-wjf9",
+  "private_key_id": "28544595273e57d46942b8dec97df785b2229c53",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxMi4bgnvvuhoH\n9uTJnCsm6u0WUaVsMq+WJ59ujZv2KTImG0hvunytnPpCVxOOujcU+epbJKb+3gTO\n6K1LMjncMU1GNZ0dk1EkBfd83aYv+fPK8FPl9R8R3elJHWRKULSGbmlSCg9GfZUz\ns1RWkwEQVMOci2I/P3X4MQAGax7dyCn8hjI9ios/oLhIhdZFGIJmVuGexKVUvUAV\n2ZGxzenFqE6tGgyIwt4xThu3PjtarLfRUyi+Kh4IBHZOg/i6N2QDi4ekN7/e3UXv\nKlyBL1Yjif72dtPLnAoJdwJu/C9o8XCzNi/WJYuWABLJFPkgWs5x1gOPWSFVfvAG\n7q2D5veJAgMBAAECgf862rtxZ7RrFAXz3Ibsvrp1qfSLs5cK3WZNUw4fO7VGNA74\neGhar4gRXVL449+EIKawbnTd4FiDlNgx8sE3v0W8ZfkRO0vC/kjksXKOcxS8ibvB\n/ikfJ7wtaKU55nR+AaN+PkPo4rjhXt/dtCe5O5c8Zua078b9pi+UyN1zP+7g5msL\nINoaW3J4iLgDNfjuiR6vCOE4pLC2gcMLFv9AKzzITSHrIjItYhm7pa+OVXkJhBkb\ngvyH3D69v17wF7UnxtuDcc+qS6hY+l8Uiyj/ArM+hjZviqivLgk4UwgawqHfd6Tv\nJRjc74uE8RH2TPRgusVHf1tCiisCZddYERiFl4kCgYEA+G7qTLhWJ5NujksWGNC8\nqS4NvWKNFIDkpbNagBAl92wsUBcNPn7ClWCoN6tAjVXs6sObgBcpjr4qTrEmnlCi\nEdPhM4OIlx8qu6U94il1aGnz35bl16Xgvpfzd8ipOWTPnJQNdA3ZCTi3E63vn6NQ\n8qYc80DS3WKI39jkAFHwmpUCgYEAtpfQRK16Cbb7pRUuRTo3vqWVHl6dwjDULPx2\niGDdGC5u21pPASJjfwFY4uhUspnnIz78iD5LbzqW2TczZUwDFUCtvRTsvjW8ZISk\n2SMxsEfUQUE/OxqMIfsnJn5/uutSYrTI/dbx2O9yh5XG/qSTRggU+Gk9EUnQ7khV\nmRAWICUCgYEAuQtsq66WRa40J/rXv64jCGTMSSdR7FbBeIbqPv9IOE4zh4hUDhu+\n9iLjyWtejqfU61y9w5/9DVyqCKk9Gaj3vw2x7Xvozp+hZdmECaRV1mstAnrUQldE\n2tI1wCAPpDdpyLgieTIjWhILk7X4CVFNZx/B6pJ7Pfk5+HoGAhMGgy0CgYBmQXLT\nY0t68UzQUKJPBqF9VQHDtj0nKW1JnEFNcuGezzIqCdNA0V9jGwAKYw47z1DQPk/y\nhOB99BPSpcVUr1Lyrfwebf9/LlzI9jfTmpATJsbJnJ6qnN1pkluEhUdHCM5klNYS\nwjNCyCYdpFWC+eu4RoJn85fNfMdTCpNVWtrpOQKBgQDEY4gaAekHfy0TQSuresxo\nA+O6sB8caPNuHbBEUh+agel2d1HnRxyzd0w/C3/4sPmFb41I06d5Z/3wD0A74V2g\nX5ZFTsGy2mesVJY40Im/KgC2x0/TebKGAaTOFcECd183PJEkzeFOybr2LtMdIVpl\n/fnpeHuAggkvOyvcpk62HA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pizza-bot2@pizzabot-wjf9.iam.gserviceaccount.com",
+  "client_id": "100217083011718794786",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pizza-bot2%40pizzabot-wjf9.iam.gserviceaccount.com"
+}
